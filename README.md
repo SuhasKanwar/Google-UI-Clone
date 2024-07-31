@@ -1,5 +1,7 @@
 # Google UI Clone
 
+![Project_014_Google_UI_clone](https://github.com/user-attachments/assets/d793b42f-cb55-404b-9157-3d7b1074a9cd)
+
 **Description:** Experience the Google UI Clone, a precise and interactive replica of Google's user interface. Enjoy seamless navigation, clean design, and user-friendly features, perfectly emulating the original Google experience. This clone is capable of directing search queries to the real Google server, providing authentic search results.
 
 ## Features
